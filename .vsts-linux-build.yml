@@ -57,7 +57,6 @@ jobs:
 
   - bash: |
       cd ~/emsdk
-      wget https://raw.githubusercontent.com/mono/mono/27247739c68faee7b2a63ae805222d4b375d2161/sdks/builds/emscripten-pr-8457.diff
       wget https://raw.githubusercontent.com/mono/mono/27247739c68faee7b2a63ae805222d4b375d2161/sdks/builds/fix-emscripten-8511.diff
       cd ~/emsdk/upstream/emscripten
       patch -N -p1 < ~/emsdk/emscripten-pr-8457.diff
