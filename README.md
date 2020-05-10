@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/microsoft/Xaml-Controls-Gallery) 
+
 # XAML Controls Gallery port for Uno Platform
 
 This repository is a port of the [Xaml Controls Gallery](https://github.com/Microsoft/Xaml-Controls-Gallery) running on the [Uno-based apps](http://platform.uno) on Windows, iOS, Android and WebAssembly.
